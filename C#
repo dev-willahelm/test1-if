@@ -4,7 +4,7 @@ int main() {
 	scanf("%f", &numero);
 	if(numero > 10){
 		printf("Maior do que 10.\n");
-		printf("Maior do que 10, hehehe!\n");
+		printf("Maior do que 10, heheh!\n");
 	}
 	return 0;
 }
